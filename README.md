@@ -1,2 +1,2 @@
 # portfolio
-all practice files from work at elevation academy
+practice files from week1 at elevation academy
